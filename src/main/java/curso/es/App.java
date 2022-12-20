@@ -11,10 +11,10 @@ public class App {
     }
         
     public static double Triplar(double numero) {
-        return numero*4;
+        return numero*3;
     }
     
     public static double Mitad(double numero) {
-        return numero/4;
+        return numero/2;
     }
 }
